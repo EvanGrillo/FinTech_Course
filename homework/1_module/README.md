@@ -14,7 +14,9 @@
     - Filed patents for [Online marketplace for real estate transactions](https://patents.google.com/patent/US9105061B2/en) and [Web-based real estate mapping system](https://patents.google.com/patent/US9213461B2/en).
     - Early on worked to build some the web's first interactive mapping tools
 
-- **Funding:** Redfin is a publicly traded company (since 2017) and has had 12 funding rounds totaling $319.6M. Their Series A round raised $770,000 from Madrona Venture Group in September 2005.[^5]
+- **Funding:** 
+
+  Redfin is a publicly traded company (since 2017) and has had 12 funding rounds totaling $319.6M. Their Series A round raised $770,000 from Madrona Venture Group in September 2005.[^5]
 
 ## Business Activities
 
