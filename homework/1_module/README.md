@@ -25,15 +25,20 @@
 - **Target Customers:** Home sellers, buyers, landlords and renters.
 
 - **Unique Selling Proposition (USP):**
+  
   Redfin's stated long-term goal is to integrate brokerage, rentals, mortgage, and title services into one solution, making consumer moves more efficient and cost-effective compared to standalone services.
 
-  Redfin agents earn a salary, vs. a percentage-based commission and coordinate a team of specialists, e.g. a home loan or pre-approval through Bay Equity, which was acquired by Redfin in January 2022.[^4]
+  <u>Some USP Points</u>:
 
-  Sellers pay a 1% listing fee (as opposed to  2.5%) which includes marketing (e.g. photos, & 3D tour) 
+  - Redfin has in-house agents with salary, benefits and bonuses (As of December 31, 2022, 5,572 employees with 2,426 lead agents)[^1], whereas Zillow has a model where agents are independent contractors
 
-  On-demand home tours
+  - Market integrations streamline key processes, e.g. a home loan or pre-approval through Bay Equity, which was acquired by Redfin in January 2022.[^4]
 
-- **Technologies Used:** Redfin uses various technologies, including many 3rd-party website integrations (*see [Index Page View Source](view-source:https://www.redfin.com/)*). Notable data and application technologies include JavaScript, Python, React.js, React Native, Node.js, NGINX, Redis, DynamoDB, Swift, Spring MVC, CentOS, AWS, Java, Android, PostgreSQL, Google Cloud, and Kafka.[^6]
+  - Sellers pay a 1% listing fee (as opposed to  2.5%) which includes marketing (e.g. photos, & 3D tour)
+
+  - Offers on-demand home tours for buyers
+
+- **Technologies Used:** Redfin uses various technologies, including many 3rd-party website integrations (*see head tag section in website page source*). Notable data and application technologies include JavaScript, Python, React.js, React Native, Node.js, NGINX, Redis, DynamoDB, Swift, Spring MVC, CentOS, AWS, Java, Android, PostgreSQL, Google Cloud, and Kafka.[^6]
 
 ## Landscape
 
@@ -65,17 +70,74 @@
 
 ## Results
 
-- **Business Impact:** Redfin states that it saved customers over $1.5 billion since its launch in 2006 compared to a 2.5% commission model.
+- **Business Impact:** 
 
-- **Core Metrics:** Redfin's success is measured by various metrics:
-  - Helped customers buy or sell over 497,000 homes worth more than $249 billion through 2022.
-  - Attracted more than 49 million monthly average visitors to their website and mobile application in 2022.
-  - Achieved a 32% higher rate of customers buying and selling the same home compared to competing brokerages.
-  - Sold Redfin-listed homes for nearly $1,800 more on average than competing brokerages' similar listings in 2022.
-  - Listed homes on the market for less than 23 days in 2021, compared to the industry average of more than 26 days.
-  - Approximately 97% of Redfin listings sold within 90 days versus the industry average of approximately 95%.
+  <u>From FY2022 Form 10-K[^10]</u>
+    - Saved customers over $1.5 billion since launch in 2006 compared to a 2.5% commission model.
+    - Attracted 49 million monthly average visitors to website and mobile applications in 2022 (5% year-over-year growth)
+    - Customers buy and sell the same home at 32% higher rate than competing brokerages
+    - Listed homes for nearly $1,800 more on average than competing brokerages
+    - Listed homes on the market for less than 23 days in 2021, compared to the industry average of more than 26 days.
+    - Approximately 97% of Redfin listings sold within 90 days versus the industry average of approximately 95%.
 
-- **Performance vs. Competitors:** Zillow reported an annual revenue of $1.958 billion in 2022, an 8.16% decline from 2021.
+- **Core Metrics:** 
+
+  | Year Ended December 31, | 2022     | 2021     | 2020     |
+  |-------------------------|----------|----------|----------|
+  | Monthly average visitors (in thousands) | 49,654 | 47,113 | 42,862 |
+  | Real estate services transactions          |          |          |          |
+  | Brokerage | 66,554   | 76,680   | 60,510   |
+  | Partner    | 13,649   | 17,899   | 15,290   |
+  | Total      | 80,203   | 94,579   | 75,800   |
+  | Real estate services revenue per transaction |   |   |   |
+  | Brokerage | $11,269  | $11,076  | $10,040  |
+  | Partner    | $2,718   | $3,020   | $2,858   |
+  | Aggregate  | $9,814   | $9,551   | $8,591   |
+  | U.S. market share by units | 0.80% | 0.77% | 0.67% |
+  | Revenue from top-10 markets as a percentage of real estate services revenue | 58% | 62% | 63% |
+  | Average number of lead agents | 2,426 | 2,396 | 1,757 |
+  | RedfinNow homes sold | 2,044 | 1,451 | 453 |
+  | Revenue per RedfinNow home sold | $576,599 | $594,268 | $462,883 |
+  | Mortgage originations by dollars (in millions) | $4,317 | $988 | $685 |
+  | Mortgage originations by units (in ones) | 10,625 | 2,643 | 1,973 |
+
+  
+
+- **Performance vs. Competitors:**
+
+  Zillow FY2022[^9]: 
+
+  | Year Ended December 31, 2021 to 2022 | 2020 to 2021 | Year Ended December 31, |
+  |------------------------------------|-------------|------------------------|
+  | 2022 | 2021 | 2020 | $ Change | % Change | $ Change | % Change | 2022 | 2021 | 2020 |
+  |------|------|------|----------|----------|----------|----------|------|------|------|
+  | (in millions, except percentages) | | | | | | | | | |
+  | Revenue: | | | | | | | | | | |
+  | IMT segment: | | | | | | | | | | |
+  | Premier Agent | $ 1,291 | $ 1,396 | $ 1,047 | $ (105) | (8)% | $ 349 | 33% | 66% | 65% | 64% |
+  | Rentals | 274 | 264 | 222 | 10 | 4 | 42 | 19 | 14 | 12 | 14 |
+  | Other | 274 | 226 | 181 | 48 | 21 | 45 | 25 | 14 | 11 | 11 |
+  | Total IMT segment revenue | 1,839 | 1,886 | 1,450 | (47) | (2) | 436 | 30 | 94 | 88 | 89 |
+  | Mortgages segment | 119 | 246 | 174 | (127) | (52) | 72 | 41 | 6 | 12 | 11 |
+  | Total revenue | $ 1,958 | $ 2,132 | $ 1,624 | $ (174) | (8)% | $ 508 | 31% | 100% | 100% | 100% |
+
+
+  | Year Ended December 31, 2021 to 2022 | % Change | 2020 to 2021 % |
+  |------------------------------------|---------|---------------|
+  | 2022 | 2021 | 2020 | Change |
+  |------|------|------|--------|
+  | Average monthly unique users | 220 | 218 | 212 | 1% | 3% |
+
+
+  | Year Ended December 31, 2021 to 2022 | % Change | 2020 to 2021 % |
+  |------------------------------------|---------|---------------|
+  | 2022 | 2021 | 2020 | Change |
+  |------|------|------|--------|
+  | Purchase loan origination volume | $794 | $1,035 | $540 | (23)% | 92% |
+  | Refinance loan origination volume | $750 | $3,023 | $1,213 | (75)% | 149% |
+  | Total loan origination volume | $1,544 | $4,058 | $1,753 | (62)% | 131% |
+
+
 
 ## Recommendations
 
@@ -89,7 +151,7 @@
 
 - **Benefits:**
 
-1. It would help to democraticize the process by sourcing data from consumers engaged
+1. It would help to democraticize the process by sourcing data from tourers
 2. Other firms like Zillow share the data
 3. Other platforms such as Zillow have a better search UI/UX and filters
 4. By showing the math, consumers may be more engaged in the logic
@@ -105,3 +167,5 @@
 [^6]: (https://stackshare.io/redfin/redfin)
 [^7]: (https://zillowgroup.mediaroom.com/2015-02-17-Zillow-Completes-Acquisition-of-Trulia-for-2-5-Billion-in-Stock-Forms-Zillow-Group-Family-of-Brands)
 [^8]: (https://www.redfin.com/news/redfin-chatgpt-plugin/)
+[^9]: (https://s24.q4cdn.com/723050407/files/doc_financials/2022/q4/39bcce0f-e35e-409f-aeb6-45b0276d253a.pdf)
+[^10]: (https://investors.redfin.com/financial-information/sec-filings/content/0001382821-23-000020/0001382821-23-000020.pdf)
