@@ -2,8 +2,12 @@
 
 ## Overview and Origin
 
-- **Company Name:** Redfin (anagram of the words "friend" and "finder")
-- **Incorporation Date:** October 2002 (originally as Appliance Computing Inc), reincorporated in February 2005 in Delaware and changed name to Redfin Corporation in May 2006[^3]
+- **Company Name:** 
+
+  Redfin (anagram of the words "friend" and "finder")
+- **Incorporation Date:** 
+  
+  October 2002 (originally as Appliance Computing Inc), reincorporated in February 2005 in Delaware and changed name to Redfin Corporation in May 2006[^3]
 - **Founders:**
     - David Eraker
     - Michael Dougherty
@@ -20,9 +24,13 @@
 
 ## Business Activities
 
-- **Problem Solved:** Redfin aims to provide consumers with a seamless buying and selling experience through strategic market integrations and technology.
+- **Problem Solved:** 
 
-- **Target Customers:** Home sellers, buyers, landlords and renters.
+  Redfin aims to provide consumers with a seamless buying and selling experience through strategic market integrations and technology.
+
+- **Target Customers:** 
+  
+  Home sellers, buyers, landlords and renters.
 
 - **Unique Selling Proposition (USP):**
   
@@ -38,11 +46,15 @@
 
   - Offers on-demand home tours for buyers
 
-- **Technologies Used:** Redfin uses various technologies, including many 3rd-party website integrations (*see head tag section in website page source*). Notable data and application technologies include JavaScript, Python, React.js, React Native, Node.js, NGINX, Redis, DynamoDB, Swift, Spring MVC, CentOS, AWS, Java, Android, PostgreSQL, Google Cloud, and Kafka.[^6]
+- **Technologies Used:** 
+
+  Redfin uses various technologies, including many 3rd-party website integrations (*see head tag section in website page source*). Notable data and application technologies include JavaScript, Python, React.js, React Native, Node.js, NGINX, Redis, DynamoDB, Swift, Spring MVC, CentOS, AWS, Java, Android, PostgreSQL, Google Cloud, and Kafka.[^6]
 
 ## Landscape
 
-- **Industry Domain:** Mortgage/Real Estate
+- **Industry Domain:** 
+
+  Mortgage/Real Estate
 
 - **Major Trends and Innovations (last 5-10 years):**
 
@@ -72,7 +84,7 @@
 
 - **Business Impact:** 
 
-  <u>From FY2022 Form 10-K[^10]</u>
+  <u>FY2022 Form 10-K[^10]</u>
     - Saved customers over $1.5 billion since launch in 2006 compared to a 2.5% commission model.
     - Attracted 49 million monthly average visitors to website and mobile applications in 2022 (5% year-over-year growth)
     - Customers buy and sell the same home at 32% higher rate than competing brokerages
@@ -101,43 +113,37 @@
   | Mortgage originations by dollars (in millions) | $4,317 | $988 | $685 |
   | Mortgage originations by units (in ones) | 10,625 | 2,643 | 1,973 |
 
-  
+
+  | Year Ended December 31, | 2022  | 2021  | 2020  |
+  |-------------------------|-------|-------|-------|
+  | (in thousands) | | | |
+  | Revenue | $2,284,442 | $1,922,765 | $886,093 |
+  | Cost of revenue | $1,998,389 | $1,518,945 | $653,983 |
+  | Gross profit | $286,053 | $403,820 | $232,110 |
+
+
+
+  **Summary**:
+
+    While Redfin's performance is influenced by market trends beyond its control, such as fluctuating interest rates, overall the metrics indicate that the company is on track to achieve its mission of being a market integrator that draws in both buyers and sellers.
 
 - **Performance vs. Competitors:**
 
   Zillow FY2022[^9]: 
 
-  | Year Ended December 31, 2021 to 2022 | 2020 to 2021 | Year Ended December 31, |
-  |------------------------------------|-------------|------------------------|
-  | 2022 | 2021 | 2020 | $ Change | % Change | $ Change | % Change | 2022 | 2021 | 2020 |
-  |------|------|------|----------|----------|----------|----------|------|------|------|
-  | (in millions, except percentages) | | | | | | | | | |
-  | Revenue: | | | | | | | | | | |
-  | IMT segment: | | | | | | | | | | |
-  | Premier Agent | $ 1,291 | $ 1,396 | $ 1,047 | $ (105) | (8)% | $ 349 | 33% | 66% | 65% | 64% |
-  | Rentals | 274 | 264 | 222 | 10 | 4 | 42 | 19 | 14 | 12 | 14 |
-  | Other | 274 | 226 | 181 | 48 | 21 | 45 | 25 | 14 | 11 | 11 |
-  | Total IMT segment revenue | 1,839 | 1,886 | 1,450 | (47) | (2) | 436 | 30 | 94 | 88 | 89 |
-  | Mortgages segment | 119 | 246 | 174 | (127) | (52) | 72 | 41 | 6 | 12 | 11 |
-  | Total revenue | $ 1,958 | $ 2,132 | $ 1,624 | $ (174) | (8)% | $ 508 | 31% | 100% | 100% | 100% |
+  | Year Ended December 31, | 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
+  |-------------------------|------|------|------|----------|---------------|
+  | Average monthly unique users (in millions) | 220 | 218 | 212 | 1% | 3% |
 
+  | Year Ended December 31, | 2022  | 2021  | 2020  |
+  |-------------------------|-------|-------|-------|
+  | Revenue | $1,958 | $2,132 | $1,624 |
+  | Cost of revenue | $367 | $323 | $255 |
+  | Gross profit | $1,591 | $1,809 | $1,369 |
 
-  | Year Ended December 31, 2021 to 2022 | % Change | 2020 to 2021 % |
-  |------------------------------------|---------|---------------|
-  | 2022 | 2021 | 2020 | Change |
-  |------|------|------|--------|
-  | Average monthly unique users | 220 | 218 | 212 | 1% | 3% |
+  **Summary**:
 
-
-  | Year Ended December 31, 2021 to 2022 | % Change | 2020 to 2021 % |
-  |------------------------------------|---------|---------------|
-  | 2022 | 2021 | 2020 | Change |
-  |------|------|------|--------|
-  | Purchase loan origination volume | $794 | $1,035 | $540 | (23)% | 92% |
-  | Refinance loan origination volume | $750 | $3,023 | $1,213 | (75)% | 149% |
-  | Total loan origination volume | $1,544 | $4,058 | $1,753 | (62)% | 131% |
-
-
+  Zillow draws over 4x the average monthly visitors and over 5x the gross profit as Redfin. However, Redfin has greater overall revenue. A deeper-dive analysis would provide greater insights into the differences between business / financial models and long term strategy. 
 
 ## Recommendations
 
