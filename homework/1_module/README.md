@@ -130,11 +130,11 @@
 
   Zillow FY2022[^9]: 
 
-  || 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
+  |(millions)| 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
   |-------------------------|------|------|------|----------|---------------|
-  | Average monthly unique users (in millions) | 220 | 218 | 212 | 1% | 3% |
+  | Average monthly unique users | 220 | 218 | 212 | 1% | 3% |
 
-  || 2022  | 2021  | 2020  |
+  |(millions)| 2022  | 2021  | 2020  |
   |-------------------------|-------|-------|-------|
   | Revenue | $1,958 | $2,132 | $1,624 |
   | Cost of revenue | $367 | $323 | $255 |
@@ -142,7 +142,7 @@
 
   **Summary**:
 
-  Zillow draws over 4x the average monthly visitors and over 5x the gross profit as Redfin. However, Redfin has greater overall revenue. A deeper-dive analysis would provide greater insights into the differences between business / financial models and long term strategy. A future study could be to explore the possibility of a duopoly forming in the online real estate industry, considering the dominant positions of Zillow and Refin.
+  Zillow draws over 4x the average monthly visitors and over 5x the gross profit as Redfin. However, Redfin has greater overall revenue. A deeper-dive analysis would provide greater insights into the differences between business / financial models and long term strategy. A future study could be to explore the possibility of a duopoly forming in the online real estate industry, considering the dominant positions of Zillow and Redfin.
 
 ## Recommendations
 
