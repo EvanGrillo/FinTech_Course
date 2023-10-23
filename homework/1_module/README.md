@@ -5,9 +5,11 @@
 - **Company Name:** 
 
   Redfin (anagram of the words "friend" and "finder")
+
 - **Incorporation Date:** 
   
   October 2002 (originally as Appliance Computing Inc), reincorporated in February 2005 in Delaware and changed name to Redfin Corporation in May 2006[^3]
+
 - **Founders:**
     - David Eraker
     - Michael Dougherty
@@ -75,10 +77,8 @@
     
 
 - **Major Companies in the Domain:**
+  - Redfin
   - Zillow
-  - Trulia (acquired by Zillow for $2.5 billion in February 2015)[^7]
-  - Homes.com
-  - Realtor.com
 
 ## Results
 
@@ -122,7 +122,6 @@
   | Gross profit | $286,053 | $403,820 | $232,110 |
 
 
-
   **Summary**:
 
     While Redfin's performance is influenced by market trends beyond its control, such as fluctuating interest rates, overall the metrics indicate that the company is on track to achieve its mission of being a market integrator that draws in both buyers and sellers.
@@ -131,11 +130,11 @@
 
   Zillow FY2022[^9]: 
 
-  | Year Ended December 31, | 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
+  || 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
   |-------------------------|------|------|------|----------|---------------|
   | Average monthly unique users (in millions) | 220 | 218 | 212 | 1% | 3% |
 
-  | Year Ended December 31, | 2022  | 2021  | 2020  |
+  || 2022  | 2021  | 2020  |
   |-------------------------|-------|-------|-------|
   | Revenue | $1,958 | $2,132 | $1,624 |
   | Cost of revenue | $367 | $323 | $255 |
@@ -143,27 +142,29 @@
 
   **Summary**:
 
-  Zillow draws over 4x the average monthly visitors and over 5x the gross profit as Redfin. However, Redfin has greater overall revenue. A deeper-dive analysis would provide greater insights into the differences between business / financial models and long term strategy. 
+  Zillow draws over 4x the average monthly visitors and over 5x the gross profit as Redfin. However, Redfin has greater overall revenue. A deeper-dive analysis would provide greater insights into the differences between business / financial models and long term strategy. A future study could be to explore the possibility of a duopoly forming in the online real estate industry, considering the dominant positions of Zillow and Refin.
 
 ## Recommendations
 
 - **Suggested Product/Service:** 
 
-1. Add a feature for verified home tourers to provide their value estimates, in addition observations
-2. Stop practice of hiding historical sales and other listing/relisting data
-3. Improve matching algorithms by adding more user preference field inputs
-4. Make home value estimator and other private calculators open source
-5. Share results of inspections
+  1. Add a feature for verified home tourers to provide their value estimates, in addition to tour observations
+  2. Stop practice of hiding historical sales and other listing/relisting data
+  3. Improve matching algorithms by adding more user preference field inputs (expand common key words to filters)
+  4. Make home value estimator and other private calculators open source
+  5. Share results of inspections
 
 - **Benefits:**
 
-1. It would help to democraticize the process by sourcing data from tourers
-2. Other firms like Zillow share the data
-3. Other platforms such as Zillow have a better search UI/UX and filters
-4. By showing the math, consumers may be more engaged in the logic
-5. Use inspection reports to reduce waste 
+  1. It would help to democraticize the process by sourcing data from tourers
+  2. Other firms like Zillow share the data
+  3. Other platforms such as Zillow have a better search UI/UX and filters
+  4. By showing the math, consumers may be more confident in property value
+  5. Use inspection reports to reduce waste
 
-- **Technologies:** Redfin can implement these changes using their existing technology stack, e.g. JavaScript, Python and PostgreSQL.
+- **Technologies:** 
+
+  Redfin can implement these changes using their existing technology stack, e.g. JavaScript, Python and PostgreSQL.
 
 [^1]: (https://investors.redfin.com/financial-information)
 [^2]: (https://medium.com/@daveselinger/consumer-first-technology-second-short-term-profit-last-redfin-principles-from-founding-to-ipo-5a05cae6f3ad)
