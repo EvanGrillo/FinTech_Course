@@ -18,17 +18,12 @@ sales_path = os.path.relpath('Homework/2_module/PyRamen/Resources/sales_data.csv
 menu = {}
 report = {}
 
-
 with open(menu_path) as f:
     reader = csv.reader(f)
     next(reader)
     
     for row in reader:
-        
-        #destructure list
-        item, category, description, price, cost = row
-        
-        menu[item] = Menu(item, category, description, price, cost)
+        menu[row[0]] = Menu(row)
 
 with open(sales_path) as f:
     reader = csv.reader(f)
@@ -55,4 +50,5 @@ with open(sales_path) as f:
         report[item].cogs += cost * qty
         report[item].profit += profit * qty
 
-pp.pprint(report)
+for item in report:
+    print(f"{item}: {vars(report[item])}")
