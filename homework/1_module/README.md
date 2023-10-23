@@ -94,7 +94,7 @@
 
 - **Core Metrics:** 
 
-  | Year Ended December 31, | 2022     | 2021     | 2020     |
+  | Year Ended December 31 | 2022     | 2021     | 2020     |
   |-------------------------|----------|----------|----------|
   | Monthly average visitors (in thousands) | 49,654 | 47,113 | 42,862 |
   | Real estate services transactions          |          |          |          |
@@ -114,7 +114,7 @@
   | Mortgage originations by units (in ones) | 10,625 | 2,643 | 1,973 |
 
 
-  | Year Ended December 31, | 2022  | 2021  | 2020  |
+  | Year Ended December 31 | 2022  | 2021  | 2020  |
   |-------------------------|-------|-------|-------|
   | (in thousands) | | | |
   | Revenue | $2,284,442 | $1,922,765 | $886,093 |
@@ -130,12 +130,14 @@
 
   Zillow FY2022[^9]: 
 
-  |(millions)| 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
+  | Year Ended December 31 | 2022 | 2021 | 2020 | % Change | 2020 to 2021 % |
   |-------------------------|------|------|------|----------|---------------|
+  | (in millions) | | | |
   | Average monthly unique users | 220 | 218 | 212 | 1% | 3% |
 
-  |(millions)| 2022  | 2021  | 2020  |
+  | Year Ended December 31 | 2022  | 2021  | 2020  |
   |-------------------------|-------|-------|-------|
+  | (in millions) | | | |
   | Revenue | $1,958 | $2,132 | $1,624 |
   | Cost of revenue | $367 | $323 | $255 |
   | Gross profit | $1,591 | $1,809 | $1,369 |
