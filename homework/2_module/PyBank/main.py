@@ -1,7 +1,8 @@
 import csv
-import os
+from pathlib import Path
 
-file_path = os.path.relpath('Homework/2_module/PyBank/Resources/budget_data.csv')
+curr_dir = Path(__file__).resolve().parent
+file_path = Path(f'{curr_dir}/Resources/budget_data.csv')
 
 total_months = 0
 total = 0

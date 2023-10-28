@@ -1,5 +1,5 @@
 import csv
-import os
+from pathlib import Path
 
 from Classes.Menu import Menu
 from Classes.Report import Report
@@ -7,8 +7,10 @@ from Classes.Report import Report
 import pprint
 pp = pprint.PrettyPrinter()
 
-menu_path = os.path.relpath('Homework/2_module/PyRamen/Resources/menu_data.csv')
-sales_path = os.path.relpath('Homework/2_module/PyRamen/Resources/sales_data.csv')
+curr_dir = Path(__file__).resolve().parent
+
+menu_path = Path(f'{curr_dir}/Resources/menu_data.csv')
+sales_path = Path(f'{curr_dir}/Resources/sales_data.csv')
 
 """
     dicts
@@ -18,7 +20,7 @@ sales_path = os.path.relpath('Homework/2_module/PyRamen/Resources/sales_data.csv
 menu = {}
 report = {}
 
-with open(menu_path) as f:
+with open(menu_path, 'r') as f:
     reader = csv.reader(f)
     next(reader)
     
