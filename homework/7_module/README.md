@@ -1,7 +1,7 @@
 ## Database Setup
 
 #### Entity Relationship Diagram
-![Entity Relationship Diagram](../Data/ERD.png)
+![Entity Relationship Diagram](./ERD.png)
 
 
 #### [Analyze Data to Create Constraint](../Starter_Files/analyze_raw_data.ipynb)
