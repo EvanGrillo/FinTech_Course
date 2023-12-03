@@ -4,7 +4,7 @@
 ![Entity Relationship Diagram](./ERD.png)
 
 
-#### [Analyze Data to Create Constraint](../Starter_Files/analyze_raw_data.ipynb)
+#### [Analyze Data to Create Constraint](./analyze_raw_data.ipynb)
 
 #### Create Tables
 ```sql
