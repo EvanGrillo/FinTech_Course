@@ -17,12 +17,12 @@ while [ "$hash_prefix" != "$target_prefix" ]; do
     echo "$(date +%s%N | head -c 32)" >> "$filename"
     
     # Calculate the SHA-256 hash of the file
-    hash_prefix=$(shasum -a 256 "$filename" | cut -c 1-2)
+    hash_prefix=$(shasum -a 256 "$filename" | cut -c 1-${#target_prefix})
 
     ((attempts++))
     
     echo "Attempt $attempts - Current hash prefix: $hash_prefix"
-    
+
 done
 
 echo "Hash prefix is now: $hash_prefix"

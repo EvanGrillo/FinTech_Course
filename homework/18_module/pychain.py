@@ -40,7 +40,6 @@ class Block:
 
         return sha.hexdigest()
 
-
 @dataclass
 class PyChain:
     chain: List[Block]
