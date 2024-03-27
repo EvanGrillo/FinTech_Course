@@ -1,6 +1,15 @@
-# Unit 21: Blockchain with Solidity, Ganache & Metamask
+# Unit 21: Blockchain Smart Contract
 
-This unit covers writing a smart contract and enhancing its functionality with Open Zeppelin to inherit utility methods.
+### Summary 
+
+This unit covers writing a smart contract and enhancing its functionality with Open Zeppelin to inherit utility methods. It also revisits deploying and utilizing contracts through Remix on a Ganache network.
+
+### Key Tools
+
+- Solidity v0.5.0
+- Open Zeppelin ERC20
+- Ganache
+- Metamask
 
 ### Deploying the Crowdsale Deployer Contract
 
@@ -12,7 +21,7 @@ This unit covers writing a smart contract and enhancing its functionality with O
 
 - Utilize the 'At Address' field to link other contracts to their respective addresses.
 
-- Three out of four accounts use `buyTokens` method to purchase 10 Ether worth of tokens.
+- Use `buyTokens` method to purchase 10 Ether worth of tokens with 3/4 of the account addresses.
 
 ##### Transaction Details:
 
@@ -25,11 +34,11 @@ This unit covers writing a smart contract and enhancing its functionality with O
 - **Latest Balance**:  
   ![Latest Balance](./Images/latest_ether.png)
 
-The crowdsale's deadline is set to the current (latest) Unix timestamp plus 1 hour. The `isOpen` method returns `true`, indicating the sale is currently active, while `hasClosed` returns `false`, showing it hasn't ended yet.
+The crowdsale's deadline is set to the current Unix timestamp plus 1 hour. The `isOpen` method returns `true`, indicating the sale is currently active, while `hasClosed` returns `false`, showing it hasn't ended.
 
 #### Checking Contract State:
 
-To determine if the contract is open or closed, you can reference the Open Zeppelin's source code methods below:
+To determine if the contract is open or closed, you can reference the Open Zeppelin's source code methods with an example below:
 
 ```solidity
 function isOpen() public view returns (bool) {
