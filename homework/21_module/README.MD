@@ -17,13 +17,13 @@ This unit covers writing a smart contract and enhancing its functionality with O
 ##### Transaction Details:
 
 - **Goal Reached**: `false`  
-  ![Goal Reached Check](/Images/1_goal_reached.png)
+  ![Goal Reached Check](./Images/1_goal_reached.png)
 
 - **Wei Raised**: `30000000000000000000 wei`, or `30 Ether`  
-  ![Wei Raised](/Images/1_wei_raised.png)
+  ![Wei Raised](./Images/1_wei_raised.png)
 
 - **Latest Balance**:  
-  ![Latest Balance](/Images/latest_ether.png)
+  ![Latest Balance](./Images/latest_ether.png)
 
 The crowdsale's deadline is set to the current (latest) Unix timestamp plus 1 hour. The `isOpen` method returns `true`, indicating the sale is currently active, while `hasClosed` returns `false`, showing it hasn't ended yet.
 
@@ -44,4 +44,4 @@ function hasClosed() public view returns (bool) {
 ```
 
 The contract interface in Remix includes several buttons and fields to trigger transactions or check the latest contract state:
-  ![Contract State](/Images/contract_interface.png)
+![Contract State](./Images/contract_interface.png)
